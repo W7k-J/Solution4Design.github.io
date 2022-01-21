@@ -8,7 +8,9 @@
 }
 
 body{	
-    	margin-top: 5%;
+    	margin-left:5%;
+	margin-right:5%;
+	margin-top: 9%;
 	background-color: black;
 	font-family: 'Montserrat', sans-serif;
 	color: white;
@@ -17,7 +19,7 @@ body{
 
 h2{
 	font-family: 'Montserrat', sans-serif;
-	font-size: 3vw;
+	font-size: 1.7vw;
 	color: white;
 }
 
@@ -25,5 +27,5 @@ p{
 	font-family: 'Montserrat', sans-serif;
 	color: white;
 	font-size: 2vw;
-	line-height: 1.6;
+	line-height: 1.1;
 }
